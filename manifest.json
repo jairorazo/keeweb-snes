@@ -1,0 +1,21 @@
+{
+  "version": "0.0.1",
+  "manifestVersion": "0.1.0",
+  "name": "SNES-Theme",
+  "description": "SNES Color Theme",
+  "author": {
+    "name": "Jairo Razo",
+    "email": "jairorazo@gmail.com",
+    "url": "https://github.com/jairorazo"
+  },
+  "resources": {
+    "css": true
+  },
+  "license": "MIT",
+  "url": "https://github.com/jairorazo",
+  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxO4mvMm+0/Jx1RsqmXbTUqfYxstXYihCrD23szS+HFN6hBYGonjrm0IAmX3PeuE9VFTUvcJUSyvFxajFK+bM1AUej0QppsRcEBkH9ZbbumQAUXt9eYbqBayvF6CqXjPLkCMVz3k8N9YGTsSxHHn3Rq2CvOHHQ2dsa/IonP1rohytcQ3mkuVo9ysRT7hz+BZPG7lt64+q4RwGqvl/cVUbkVrJg8ZzCEBc9oHXbne3ULpjOihzqN5nYMrTn9UqN/lgaBlWGKCPyxvWKis/BHKdtikqUShYgEQHxaLefsHV+hFGEsupVWeaMqpaBgXjkGGYpe+atZHPEBMbGAn1FIRR4wIDAQAB",
+  "theme": {
+    "name": "snes_theme",
+    "title": "SNES Color Theme"
+  }
+}
